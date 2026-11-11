@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://zaad-rishon.github.io/tzaad-rishon/sitemap.xml
+Sitemap: https://tzaadrishon.com/sitemap.xml
